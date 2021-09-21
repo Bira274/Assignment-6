@@ -12,11 +12,14 @@ color: darkgoldenrod;
     padding-bottom: 484px;
     padding-right: 300px;
     background-size: cover;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
 }
 .container {
 margin: 100px 300px 5px;
 height: 500px;
 background-color: coral;
+border-radius: 10px;
 }
 #name {
     font-size: 50px;
